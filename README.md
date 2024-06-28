@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm Anika, a passionate Computer Science and Engineering student at International Islamic University,Chittagong.I love exploring and working on various aspects of computer science, including algorithms, data structures, web development, and machine learning...
+Hello! I'm Anika, a passionate Computer Science and Engineering student at International Islamic University,Chittagong.I love exploring and working on various aspects of computer science, including algorithms, data structures, web development, and machine learning.
 
 ## 🛠️ Skills
 
