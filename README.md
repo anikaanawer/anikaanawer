@@ -10,7 +10,7 @@ Hello! I'm Anika, a passionate Computer Science and Engineering student at Inter
 - **Web Development:** HTML, CSS, React, Node.js
 - **Data Science:** Pandas, NumPy
 - **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools & Technologies:** Git, Docker,Linux
+- **Tools & Technologies:** Git, Docker, Linux
 
 ## 🌟 Projects
 
