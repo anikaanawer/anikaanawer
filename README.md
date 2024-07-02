@@ -30,13 +30,13 @@ Hello! I'm Anika, a passionate Computer Science and Engineering student at Inter
 - Product listing and search
 - Secure payment gateway
 
-### 3. [Chat Application](https://github.com/johndoe/chat-application)
-**Description:** A real-time chat application with room-based conversations.
-**Tech Stack:** Node.js, Express, Socket.io, HTML/CSS
+### 3. [Chat Application](https://github.com/anikaanawer/Pilo-voice-chat)
+**Description:** A voice controlled chat application with conversations technology driven by artificial intelligence and machine learning
+**Tech Stack:**  phyton , HTML/CSS
 **Features:**
-- Real-time messaging
-- Room creation and management
-- User notifications
+- Voice Controlled Application
+- Controlled Web/Website Searching
+- Utility management: time, date, weather forecast
 
 ## 📈 GitHub Stats
 
