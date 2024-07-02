@@ -31,8 +31,8 @@ Hello! I'm Anika, a passionate Computer Science and Engineering student at Inter
 - Secure payment gateway
 
 ### 3. [Chat Application](https://github.com/anikaanawer/Pilo-voice-chat)
-**Description:** A voice controlled chat application with conversations technology driven by artificial intelligence and machine learning.
-**Tech Stack:**  phyton , HTML/CSS
+**Description:** A voice controlled chat application with conversations technology driven by artificial intelligence and machine learning.</br>
+**Tech Stack:**  phyton , HTML/CSS </br>
 **Features:**
 - Voice Controlled Application
 - Controlled Web/Website Searching
