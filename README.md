@@ -55,7 +55,7 @@ Feel free to reach out if you have any questions or want to collaborate on a pro
 
 - [Machine Learning by Study Mart](https://www.coursera.org/account/accomplishments/certificate/ABC123)
 - [Competitive programming Bootcamp by IIUCCP](https://www.udemy.com/certificate/DEF456)
-- Best Participate in Bootcamop by IIUCP
+- Best Participate in Bootcamop by IIUCP.
 - Best Female in Intra University Programing contest 2021.
 - National Girl’s programming contest-2021.
 - IIUC GIRLS PROGRAMMING CONTEST, 2022.
@@ -63,7 +63,7 @@ Feel free to reach out if you have any questions or want to collaborate on a pro
 - Ada Lavlace National Girl’s programming contest,2022.
 - BdOSN CodeRace- International Girls In ICT Day Celebration Contest-2022.
 - 2022 ICPC ASIA DHAKA REGIONAL.
-- National Girl’s programming contest-2023
+- National Girl’s programming contest-2023.
  
 
 ## 🎓 Education
