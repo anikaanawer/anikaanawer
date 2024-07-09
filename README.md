@@ -49,12 +49,22 @@ Hello! I'm Anika, a passionate Computer Science and Engineering student at Inter
 - **LinkedIn:** [Anika Nawer](https://www.linkedin.com/in/anikanawer007/)
 - **Facebook:** [Anika Nawer](https://www.facebook.com/anika.nawer.56232)
 
-Feel free to reach out if you have any questions or want to collaborate on a project!
+Feel free to reach out if you have any questions or want to collaborate on a project!by 
 
 ## 📜 Certificates
 
 - [Machine Learning by Study Mart](https://www.coursera.org/account/accomplishments/certificate/ABC123)
 - [Competitive programming Bootcamp by IIUCCP](https://www.udemy.com/certificate/DEF456)
+- Best Participate in Bootcamop by IIUCP
+- Best Female in Intra University Programing contest 2021.
+- National Girl’s programming contest-2021.
+- IIUC GIRLS PROGRAMMING CONTEST, 2022.
+- IIUC Intra junior programming contest , 2022.
+- Ada Lavlace National Girl’s programming contest,2022.
+- BdOSN CodeRace- International Girls In ICT Day Celebration Contest-2022.
+- 2022 ICPC ASIA DHAKA REGIONAL.
+- National Girl’s programming contest-2023
+ 
 
 ## 🎓 Education
 
