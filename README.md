@@ -54,7 +54,7 @@ Feel free to reach out if you have any questions or want to collaborate on a pro
 ## 📜 Certificates
 
 - [Machine Learning by Study Mart](https://www.coursera.org/account/accomplishments/certificate/ABC123)
-- Best Participate in Bootcamop by IIUCP.
+- Best Participate in Bootcamp by IIUCP.
 - Best Female in Intra University Programing contest 2021.
 - National Girl’s programming contest-2021.
 - IIUC GIRLS PROGRAMMING CONTEST, 2022.
